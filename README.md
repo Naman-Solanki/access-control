@@ -2,9 +2,9 @@
 
 This folder contains source code that explains about access control in Cadence Language.
 
-## Author
 
-[Samaila Anthony Malima](https://github.com/samailamalima)
+## Author
+https://github.com/Naman-Solanki
 
 ## License
 
